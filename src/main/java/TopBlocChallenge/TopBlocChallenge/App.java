@@ -27,8 +27,8 @@ import java.io.IOException;
 public class App 
 {
 	//values do not need to be updated
-	static final String url = "http://73.172.18.175/";
-	static final String id = "m";//"madisonrpotter@gmail.com";
+	static final String url = "http://34.239.125.159:5000//challenge"; 
+	static final String id = "madisonrpotter@gmail.com";
 	
 	//main creates the data structures to store values and also calls helper functions
 	public static void main( String[] args ) 
